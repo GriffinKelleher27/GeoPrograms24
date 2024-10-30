@@ -4,7 +4,7 @@ public class A2_Thickness extends World {
     public int red;
     public int blue;
     public int green;
-
+    //I made a change
     public void go() {
         for (int y = 0; y < 350; y++) {
             for (int x = 0; x < 1000; x++) {
